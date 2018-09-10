@@ -9,7 +9,7 @@
 - [ ] PSANet: Point-wise Spatial Attention Network for Scene Parsing | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_PSANet_Point-wise_Spatial_ECCV_2018_paper.pdf)
 - [ ] Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.pdf)
 - [ ] Unsupervised Hard Example Mining from Videos for Improved Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/SouYoung_Jin_Unsupervised_Hard-Negative_Mining_ECCV_2018_paper.pdf)
-- [ ] DetNet: Design Backbone for Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zeming_Li_DetNet_Design_Backbone_ECCV_2018_paper.pdf)
+- [x] DetNet: Design Backbone for Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zeming_Li_DetNet_Design_Backbone_ECCV_2018_paper.pdf)
 - [ ] BiSeNet: Bilateral Segmentation Network for eal-time Semantic Segmentation | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
 - [ ] Visual-Inertial Object Detection and Mapping | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaohan_Fei_Visual-Inertial_Object_Detection_ECCV_2018_paper.pdf)
 - [ ] Zero-Shot Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ankan_Bansal_Zero-Shot_Object_Detection_ECCV_2018_paper.pdf)
@@ -39,7 +39,7 @@
 - [x] PFDet: 2nd Place Solution to Open Images Challenge 2018 Object Detection Track | [paper](https://arxiv.org/pdf/1809.00778.pdf)
 - [ ] DAC-SDC Low Power Object Detection Challenge for UAV Applications | [paper](https://arxiv.org/pdf/1809.00110.pdf)
 - [ ] Multiple Object Tracking in Urban Traffic Scenes with a Multiclass Object Detector | [paper](https://arxiv.org/pdf/1809.02073.pdf)
-- [ ] MDCN: Multi-Scale, Deep Inception Convolutional Neural Networks for Efficient Object Detection | [paper](https://arxiv.org/pdf/1809.01791.pdf)
+- [x] MDCN: Multi-Scale, Deep Inception Convolutional Neural Networks for Efficient Object Detection | [paper](https://arxiv.org/pdf/1809.01791.pdf)
 - [ ] Pack and Detect: Fast Object Detection in Videos Using Region-of-Interest Packing | [paper](https://arxiv.org/pdf/1809.01701.pdf)
 
 
