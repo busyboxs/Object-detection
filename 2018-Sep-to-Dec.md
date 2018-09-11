@@ -41,16 +41,23 @@
 - [ ] Multiple Object Tracking in Urban Traffic Scenes with a Multiclass Object Detector | [paper](https://arxiv.org/pdf/1809.02073.pdf)
 - [x] MDCN: Multi-Scale, Deep Inception Convolutional Neural Networks for Efficient Object Detection | [paper](https://arxiv.org/pdf/1809.01791.pdf)
 - [ ] Pack and Detect: Fast Object Detection in Videos Using Region-of-Interest Packing | [paper](https://arxiv.org/pdf/1809.01701.pdf)
+- [ ] Guiding the Creation of Deep Learning-based Object Detectors | [paper](https://arxiv.org/pdf/1809.03322.pdf)
+- [ ] Selective Refinement Network for High Performance Face Detection | [paper](https://arxiv.org/pdf/1809.02693.pdf)
+- [ ] Deep Learning for Generic Object Detection: A Survey | [paper](https://arxiv.org/pdf/1809.02165.pdf)
 
 
 
 # semantic segmentation
 
 - [ ] OCNet: Object Context Network for Scene Parsing | [paper](https://arxiv.org/pdf/1809.00916.pdf) | [code](https://github.com/PkuRainBow/OCNet)
+- [ ] Dual Attention Network for Scene Segmentation | [paper](https://arxiv.org/pdf/1809.02983.pdf) | [code] on the way
+
 
 # others
 
 - [ ] Data Dropout: Optimizing Training Data for Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1809.00193.pdf)
 - [ ] Neural Comic Style Transfer: Case Study | [paper](https://arxiv.org/pdf/1809.01726.pdf)
 - [ ] Traffic Density Estimation using a Convolutional Neural Network | [paper](https://arxiv.org/pdf/1809.01564.pdf)
+- [ ] Instance-based Deep Transfer Learning | [paper](https://arxiv.org/pdf/1809.02776.pdf)
+- [ ] TextContourNet: a Flexible and Effective Framework for Improving Scene Text Detection Architecture with a Multi-task Cascade | [paper](https://arxiv.org/pdf/1809.03050.pdf)
 
