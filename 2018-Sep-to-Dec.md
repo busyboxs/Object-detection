@@ -23,11 +23,11 @@
 - [ ] Revisiting RCNN: On Awakening the Classification Power of Faster RCNN | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bowen_Cheng_Revisiting_RCNN_On_ECCV_2018_paper.pdf)
 - [ ] SAN: Learning Relationship between Convolutional Features for Multi-Scale Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kim_SAN_Learning_Relationship_ECCV_2018_paper.pdf)
 - [ ] Graininess-Aware Deep Feature Learning for Pedestrian Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chunze_Lin_Graininess-Aware_Deep_Feature_ECCV_2018_paper.pdf)
-- [ ] Acquisition of Localization Confidence for Accurate Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Borui_Jiang_Acquisition_of_Localization_ECCV_2018_paper.pdf)
+- [x] (IOU-NET)Acquisition of Localization Confidence for Accurate Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Borui_Jiang_Acquisition_of_Localization_ECCV_2018_paper.pdf)
 - [ ] Localization Recall Precision (LRP): A New Performance Metric for Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kemal_Oksuz_Localization_Recall_Precision_ECCV_2018_paper.pdf)
 - [ ] Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongmei_Song_Pseudo_Pyramid_Deeper_ECCV_2018_paper.pdf)
 - [ ] Deep Regionlets for Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hongyu_Xu_Deep_Regionlets_for_ECCV_2018_paper.pdf)
-- [ ] Context Refinement for Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhe_Chen_Context_Refinement_for_ECCV_2018_paper.pdf)
+- [x] Context Refinement for Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhe_Chen_Context_Refinement_for_ECCV_2018_paper.pdf)
 - [ ] Quantization Mimic: Towards Very Tiny CNN for Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Wei_Quantization_Mimic_Towards_ECCV_2018_paper.pdf)
 - [ ] The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking  | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dawei_Du_The_Unmanned_Aerial_ECCV_2018_paper.pdf)
 - [ ] Learning Region Features for Object Detection | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiayuan_Gu_Learning_Region_Features_ECCV_2018_paper.pdf)
@@ -44,13 +44,21 @@
 - [ ] Guiding the Creation of Deep Learning-based Object Detectors | [paper](https://arxiv.org/pdf/1809.03322.pdf)
 - [ ] Selective Refinement Network for High Performance Face Detection | [paper](https://arxiv.org/pdf/1809.02693.pdf)
 - [ ] Deep Learning for Generic Object Detection: A Survey | [paper](https://arxiv.org/pdf/1809.02165.pdf)
-
-
+- [ ] Faster RER-CNN: application to the detection of vehicles in aerial images | [paper](https://arxiv.org/pdf/1809.07628.pdf)
+- [ ] A Fast and Accurate System for Face Detection, Identification, and Verification | [paper](https://arxiv.org/pdf/1809.07586.pdf)
+- [ ] Faster Training of Mask R-CNN by Focusing on Instance Boundaries | [paper](https://arxiv.org/pdf/1809.07069.pdf)
+- [ ] Focal Loss in 3D Object Detection | [paper](https://arxiv.org/pdf/1809.06065.pdf)
+- [ ] Evaluating Merging Strategies for Sampling-based Uncertainty Techniques in Object Detection | [paper](https://arxiv.org/pdf/1809.06006.pdf)
+- [ ] Detection-by-Localization: Maintenance-Free Change Object Detector | [paper](https://arxiv.org/pdf/1809.05267.pdf)
 
 # semantic segmentation
 
 - [ ] OCNet: Object Context Network for Scene Parsing | [paper](https://arxiv.org/pdf/1809.00916.pdf) | [code](https://github.com/PkuRainBow/OCNet)
 - [ ] Dual Attention Network for Scene Segmentation | [paper](https://arxiv.org/pdf/1809.02983.pdf) | [code] on the way
+- [ ] Mask Editor : an Image Annotation Tool for Image Segmentation Tasks | [paper](https://arxiv.org/pdf/1809.06461.pdf)
+- [ ] Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation |[paper](https://arxiv.org/pdf/1809.06323.pdf)
+- [ ] DASNet: Reducing Pixel-level Annotations for Instance and Semantic Segmentation | [paper](https://arxiv.org/pdf/1809.06013.pdf)
+
 
 
 # others
@@ -60,4 +68,5 @@
 - [ ] Traffic Density Estimation using a Convolutional Neural Network | [paper](https://arxiv.org/pdf/1809.01564.pdf)
 - [ ] Instance-based Deep Transfer Learning | [paper](https://arxiv.org/pdf/1809.02776.pdf)
 - [ ] TextContourNet: a Flexible and Effective Framework for Improving Scene Text Detection Architecture with a Multi-task Cascade | [paper](https://arxiv.org/pdf/1809.03050.pdf)
+- [ ] Albumentations: fast and flexible image augmentations | [paper](https://arxiv.org/pdf/1809.06839.pdf)
 
