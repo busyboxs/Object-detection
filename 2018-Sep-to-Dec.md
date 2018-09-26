@@ -50,6 +50,7 @@
 - [ ] Focal Loss in 3D Object Detection | [paper](https://arxiv.org/pdf/1809.06065.pdf)
 - [ ] Evaluating Merging Strategies for Sampling-based Uncertainty Techniques in Object Detection | [paper](https://arxiv.org/pdf/1809.06006.pdf)
 - [ ] Detection-by-Localization: Maintenance-Free Change Object Detector | [paper](https://arxiv.org/pdf/1809.05267.pdf)
+- [ ] Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection | [paper](https://arxiv.org/pdf/1809.08545.pdf) | [code](https://github.com/yihui-he/softer-NMS)
 
 # semantic segmentation
 
