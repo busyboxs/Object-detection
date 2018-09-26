@@ -59,7 +59,7 @@
 - [ ] Deep Differential Recurrent Neural Networks.
 - [ ] Deep Face Recognition:A Survey.
 - [ ] Deep Koalarization:Image Colorization using CNNs and Inception-ResNet-v2.
-- [ ] Deep Layer Aggregation.
+- [ ] Deep Layer Aggregation. | [paper](https://arxiv.org/pdf/1707.06484.pdf) | [code](https://github.com/ucbdrive/dla)
 - [ ] Deep Learning for Computer Vision: A Brief Review.
 - [ ] Deep MANTA:A Coarse-to-fine Many-Task Network for joint 2D and 3D vehicle analysis from monocular image.
 - [ ] Deep Neural Networks for Object Detection.
