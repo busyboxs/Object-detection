@@ -51,6 +51,11 @@
 - [ ] Evaluating Merging Strategies for Sampling-based Uncertainty Techniques in Object Detection | [paper](https://arxiv.org/pdf/1809.06006.pdf)
 - [ ] Detection-by-Localization: Maintenance-Free Change Object Detector | [paper](https://arxiv.org/pdf/1809.05267.pdf)
 - [ ] Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection | [paper](https://arxiv.org/pdf/1809.08545.pdf) | [code](https://github.com/yihui-he/softer-NMS)
+- [ ] Part-Level Convolutional Neural Networks for Pedestrian Detection Using Saliency and Boundary Box Alignment | [paper](https://arxiv.org/pdf/1810.00689.pdf)
+- [ ] CATDET: CASCADED TRACKED DETECTOR FOR EFFICIENT OBJECT DETECTION FROM VIDEO | [paper](https://arxiv.org/pdf/1810.00434.pdf)
+- [ ] Pixel and Feature Level Based Domain Adaption for Object Detection in Autonomous Driving | [paper](https://arxiv.org/pdf/1810.00345.pdf)
+- [ ] One - Click Annotation with Guided Hierarchical Object Detection | [paper](https://arxiv.org/pdf/1810.00609.pdf)
+
 
 # semantic segmentation
 
@@ -70,4 +75,6 @@
 - [ ] Instance-based Deep Transfer Learning | [paper](https://arxiv.org/pdf/1809.02776.pdf)
 - [ ] TextContourNet: a Flexible and Effective Framework for Improving Scene Text Detection Architecture with a Multi-task Cascade | [paper](https://arxiv.org/pdf/1809.03050.pdf)
 - [ ] Albumentations: fast and flexible image augmentations | [paper](https://arxiv.org/pdf/1809.06839.pdf)
+- [ ] Correlation Propagation Networks for Scene Text Detection | [paper](https://arxiv.org/pdf/1810.00304.pdf)
+
 
