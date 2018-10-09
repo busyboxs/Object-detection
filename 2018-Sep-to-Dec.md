@@ -64,6 +64,7 @@
 - [ ] Mask Editor : an Image Annotation Tool for Image Segmentation Tasks | [paper](https://arxiv.org/pdf/1809.06461.pdf)
 - [ ] Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation |[paper](https://arxiv.org/pdf/1809.06323.pdf)
 - [ ] DASNet: Reducing Pixel-level Annotations for Instance and Semantic Segmentation | [paper](https://arxiv.org/pdf/1809.06013.pdf)
+- [ ] Light-Weight RefineNet for Real-Time Semantic Segmentation | [paper](https://arxiv.org/pdf/1810.03272.pdf)
 
 
 
@@ -76,5 +77,5 @@
 - [ ] TextContourNet: a Flexible and Effective Framework for Improving Scene Text Detection Architecture with a Multi-task Cascade | [paper](https://arxiv.org/pdf/1809.03050.pdf)
 - [ ] Albumentations: fast and flexible image augmentations | [paper](https://arxiv.org/pdf/1809.06839.pdf)
 - [ ] Correlation Propagation Networks for Scene Text Detection | [paper](https://arxiv.org/pdf/1810.00304.pdf)
-
+- [ ] A look at the topology of convolutional neural networks | [paper](https://arxiv.org/pdf/1810.03234.pdf)
 
