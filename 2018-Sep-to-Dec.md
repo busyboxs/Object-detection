@@ -55,7 +55,7 @@
 - [ ] CATDET: CASCADED TRACKED DETECTOR FOR EFFICIENT OBJECT DETECTION FROM VIDEO | [paper](https://arxiv.org/pdf/1810.00434.pdf)
 - [ ] Pixel and Feature Level Based Domain Adaption for Object Detection in Autonomous Driving | [paper](https://arxiv.org/pdf/1810.00345.pdf)
 - [ ] One - Click Annotation with Guided Hierarchical Object Detection | [paper](https://arxiv.org/pdf/1810.00609.pdf)
-
+- [ ] Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection | [paper](https://arxiv.org/pdf/1810.04002.pdf) | [code](https://github.com/bowenc0221/Decoupled-Classification-Refinement)
 
 # semantic segmentation
 
@@ -65,7 +65,7 @@
 - [ ] Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation |[paper](https://arxiv.org/pdf/1809.06323.pdf)
 - [ ] DASNet: Reducing Pixel-level Annotations for Instance and Semantic Segmentation | [paper](https://arxiv.org/pdf/1809.06013.pdf)
 - [ ] Light-Weight RefineNet for Real-Time Semantic Segmentation | [paper](https://arxiv.org/pdf/1810.03272.pdf)
-
+- [ ] Learning Deep Representations for Semantic Image Parsing:a Comprehensive Overview | [paper](https://arxiv.org/pdf/1810.04377.pdf)
 
 
 # others
