@@ -56,6 +56,7 @@
 - [ ] Pixel and Feature Level Based Domain Adaption for Object Detection in Autonomous Driving | [paper](https://arxiv.org/pdf/1810.00345.pdf)
 - [ ] One - Click Annotation with Guided Hierarchical Object Detection | [paper](https://arxiv.org/pdf/1810.00609.pdf)
 - [ ] Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection | [paper](https://arxiv.org/pdf/1810.04002.pdf) | [code](https://github.com/bowenc0221/Decoupled-Classification-Refinement)
+- [ ] Comparison Detector: A novel object detection method for small dataset | [paper](https://arxiv.org/pdf/1810.05952.pdf)
 
 # semantic segmentation
 
