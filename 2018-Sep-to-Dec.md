@@ -2,6 +2,20 @@
 
 # object detection
 
+## recent update papers
+
+----
+
+- [ ] Spatiotemporal CNNs for Pornography Detection in Videos | [paper](https://arxiv.org/pdf/1810.10519.pdf)
+- [ ] Instance Segmentation and Object Detection with Bounding Shape Masks | [paper](https://arxiv.org/pdf/1810.10327.pdf)
+- [ ] MULTI-STAGE REINFORCEMENT LEARNING FOR OBJECT DETECTION | [paper](https://arxiv.org/pdf/1810.10325.pdf)
+- [ ] Incremental Deep Learning for Robust Object Detection in Unknown Cluttered Environments | [paper](https://arxiv.org/ftp/arxiv/papers/1810/1810.10323.pdf)
+- [ ] DSFD: Dual Shot Face Detector | [paper](https://arxiv.org/pdf/1810.10220.pdf)
+- [ ] GhostVLAD for set-based face recognition | [paper](https://arxiv.org/pdf/1810.09951.pdf)
+- [ ] Face Recognition from Sequential Sparse 3D data via Deep Registration | [paper](https://arxiv.org/pdf/1810.09658.pdf)
+
+----
+
 ## [ECCV 2018](http://openaccess.thecvf.com/ECCV2018.py)
 - [ ] Bi-box Regression for Pedestrian Detection and Occlusion Estimation | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/CHUNLUAN_ZHOU_Bi-box_Regression_for_ECCV_2018_paper.pdf)
 - [ ] Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground | [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Deng-Ping_Fan_Salient_Objects_in_ECCV_2018_paper.pdf)
@@ -59,16 +73,6 @@
 - [ ] Comparison Detector: A novel object detection method for small dataset | [paper](https://arxiv.org/pdf/1810.05952.pdf)
 - [ ] Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1809.03193.pdf)
 
-# semantic segmentation
-
-- [ ] OCNet: Object Context Network for Scene Parsing | [paper](https://arxiv.org/pdf/1809.00916.pdf) | [code](https://github.com/PkuRainBow/OCNet)
-- [ ] Dual Attention Network for Scene Segmentation | [paper](https://arxiv.org/pdf/1809.02983.pdf) | [code] on the way
-- [ ] Mask Editor : an Image Annotation Tool for Image Segmentation Tasks | [paper](https://arxiv.org/pdf/1809.06461.pdf)
-- [ ] Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation |[paper](https://arxiv.org/pdf/1809.06323.pdf)
-- [ ] DASNet: Reducing Pixel-level Annotations for Instance and Semantic Segmentation | [paper](https://arxiv.org/pdf/1809.06013.pdf)
-- [ ] Light-Weight RefineNet for Real-Time Semantic Segmentation | [paper](https://arxiv.org/pdf/1810.03272.pdf)
-- [ ] Learning Deep Representations for Semantic Image Parsing:a Comprehensive Overview | [paper](https://arxiv.org/pdf/1810.04377.pdf)
-
 
 # others
 
@@ -81,3 +85,7 @@
 - [ ] Correlation Propagation Networks for Scene Text Detection | [paper](https://arxiv.org/pdf/1810.00304.pdf)
 - [ ] A look at the topology of convolutional neural networks | [paper](https://arxiv.org/pdf/1810.03234.pdf)
 
+----
+
+- [ ] Vehicle classification using ResNets, localisation and spatially-weighted pooling | [paper](https://arxiv.org/pdf/1810.10329.pdf)
+- [ ] Fruit and Vegetable Identification Using Machine Learning for Retail Applications | [paper](https://arxiv.org/pdf/1810.09811.pdf)
