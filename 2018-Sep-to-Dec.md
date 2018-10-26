@@ -13,7 +13,7 @@
 - [ ] DSFD: Dual Shot Face Detector | [paper](https://arxiv.org/pdf/1810.10220.pdf)
 - [ ] GhostVLAD for set-based face recognition | [paper](https://arxiv.org/pdf/1810.09951.pdf)
 - [ ] Face Recognition from Sequential Sparse 3D data via Deep Registration | [paper](https://arxiv.org/pdf/1810.09658.pdf)
-
+- [ ] Fast and accurate object detection in high resolution 4K and 8K video using GPUs | [paper](https://arxiv.org/pdf/1810.10551.pdf)
 ----
 
 ## [ECCV 2018](http://openaccess.thecvf.com/ECCV2018.py)
