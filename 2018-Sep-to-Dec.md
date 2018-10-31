@@ -6,14 +6,9 @@
 
 ----
 
-- [ ] Spatiotemporal CNNs for Pornography Detection in Videos | [paper](https://arxiv.org/pdf/1810.10519.pdf)
-- [ ] Instance Segmentation and Object Detection with Bounding Shape Masks | [paper](https://arxiv.org/pdf/1810.10327.pdf)
-- [ ] MULTI-STAGE REINFORCEMENT LEARNING FOR OBJECT DETECTION | [paper](https://arxiv.org/pdf/1810.10325.pdf)
-- [ ] Incremental Deep Learning for Robust Object Detection in Unknown Cluttered Environments | [paper](https://arxiv.org/ftp/arxiv/papers/1810/1810.10323.pdf)
-- [ ] DSFD: Dual Shot Face Detector | [paper](https://arxiv.org/pdf/1810.10220.pdf)
-- [ ] GhostVLAD for set-based face recognition | [paper](https://arxiv.org/pdf/1810.09951.pdf)
-- [ ] Face Recognition from Sequential Sparse 3D data via Deep Registration | [paper](https://arxiv.org/pdf/1810.09658.pdf)
-- [ ] Fast and accurate object detection in high resolution 4K and 8K video using GPUs | [paper](https://arxiv.org/pdf/1810.10551.pdf)
+- [ ] Cross-Modal Attentional Context Learning for RGB-D Object Detection | [paper](https://arxiv.org/pdf/1810.12829.pdf)
+- [ ] Hybrid Knowledge Routed Modules for Large-scale Object Detection | [paper](https://arxiv.org/pdf/1810.12681.pdf) | [code](https://github.com/chanyn/HKRM)
+
 ----
 
 ## [ECCV 2018](http://openaccess.thecvf.com/ECCV2018.py)
@@ -72,6 +67,14 @@
 - [ ] Decoupled Classification Refinement: Hard False Positive Suppression for Object Detection | [paper](https://arxiv.org/pdf/1810.04002.pdf) | [code](https://github.com/bowenc0221/Decoupled-Classification-Refinement)
 - [ ] Comparison Detector: A novel object detection method for small dataset | [paper](https://arxiv.org/pdf/1810.05952.pdf)
 - [ ] Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1809.03193.pdf)
+- [ ] Spatiotemporal CNNs for Pornography Detection in Videos | [paper](https://arxiv.org/pdf/1810.10519.pdf)
+- [ ] Instance Segmentation and Object Detection with Bounding Shape Masks | [paper](https://arxiv.org/pdf/1810.10327.pdf)
+- [ ] MULTI-STAGE REINFORCEMENT LEARNING FOR OBJECT DETECTION | [paper](https://arxiv.org/pdf/1810.10325.pdf)
+- [ ] Incremental Deep Learning for Robust Object Detection in Unknown Cluttered Environments | [paper](https://arxiv.org/ftp/arxiv/papers/1810/1810.10323.pdf)
+- [ ] DSFD: Dual Shot Face Detector | [paper](https://arxiv.org/pdf/1810.10220.pdf)
+- [ ] GhostVLAD for set-based face recognition | [paper](https://arxiv.org/pdf/1810.09951.pdf)
+- [ ] Face Recognition from Sequential Sparse 3D data via Deep Registration | [paper](https://arxiv.org/pdf/1810.09658.pdf)
+- [ ] Fast and accurate object detection in high resolution 4K and 8K video using GPUs | [paper](https://arxiv.org/pdf/1810.10551.pdf)
 
 
 # others
