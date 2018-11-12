@@ -9,6 +9,7 @@
 - [ ] Cross-Modal Attentional Context Learning for RGB-D Object Detection | [paper](https://arxiv.org/pdf/1810.12829.pdf)
 - [ ] Hybrid Knowledge Routed Modules for Large-scale Object Detection | [paper](https://arxiv.org/pdf/1810.12681.pdf) | [code](https://github.com/chanyn/HKRM)
 - [ ] Training Domain Specific Models for Energy-Efficient Object Detection | [paper](https://arxiv.org/pdf/1811.02689.pdf)
+- [ ] RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement | [paper](https://arxiv.org/pdf/1811.03818.pdf)
 
 ----
 
