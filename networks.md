@@ -59,7 +59,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
 
     <table>
         <tr>
-            <td align="center"><img src="images/inceptionV3_1.png"/></td>   
+            <td align="center"><img src="images/inceptionv3_1.png"/></td>   
         </tr>
     </table>
 
