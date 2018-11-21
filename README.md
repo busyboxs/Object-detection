@@ -2,6 +2,16 @@
 
 本仓库主要收集关于目标检测的论文。论文每周会进行更新，最近一周的论文会展示在这里，之前的论文会根据具体的类别放在对应的文档中。
 
+## paper | 11.19 ~ 11.23
+
+- [ ] Multi-layer Pruning Framework for Compressing Single Shot MultiBox Detector | [paper](https://arxiv.org/pdf/1811.08342.pdf)
+- [ ] Orthographic Feature Transform for Monocular 3D Object Detection | [paper](https://arxiv.org/pdf/1811.08188.pdf)
+- [ ] Explain to Fix: A Framework to Interpret and Correct DNN Object Detector Predictions | [paper](https://arxiv.org/pdf/1811.08011.pdf)
+- [ ] Fast Efficient Object Detection Using Selective Attention | [paper](https://arxiv.org/pdf/1811.07502.pdf)
+- [ ] FotonNet: A HW-Efficient Object Detection System Using 3D-Depth Segmentation and 2D-DNN Classifier | [paper](https://arxiv.org/pdf/1811.07493.pdf)
+- [ ] R2CNN++: Multi-Dimensional Attention Based Rotation Invariant Detector with Robust Anchor Strategy | [paper](https://arxiv.org/pdf/1811.07126.pdf)
+- [ ] DeRPN: Taking a further step toward more general object detection | [paper](https://arxiv.org/pdf/1811.06700.pdf)
+
 ## paper | 11.12 ~ 11.16
 
 - [ ] RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement | [paper](https://arxiv.org/abs/1811.03818) |
