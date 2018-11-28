@@ -2,6 +2,12 @@
 
 本仓库主要收集关于目标检测的论文。论文每周会进行更新，最近一周的论文会展示在这里，之前的论文会根据具体的类别放在对应的文档中。
 
+## paper | 11.26 ~ 11.30
+
+- [ ] Deformable ConvNets v2: More Deformable, Better Results | [paper](https://arxiv.org/pdf/1811.11168.pdf)
+- [ ] Integrated Object Detection and Tracking with Tracklet-Conditioned Detection | [paper](https://arxiv.org/pdf/1811.11167.pdf)
+- [ ] Fast Object Detection in Compressed Video | [paper](https://arxiv.org/pdf/1811.11057.pdf)
+
 ## paper | 11.19 ~ 11.23
 
 - [ ] Multi-layer Pruning Framework for Compressing Single Shot MultiBox Detector | [paper](https://arxiv.org/pdf/1811.08342.pdf)
