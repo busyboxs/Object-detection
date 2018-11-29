@@ -7,6 +7,7 @@
 - [ ] Deformable ConvNets v2: More Deformable, Better Results | [paper](https://arxiv.org/pdf/1811.11168.pdf)
 - [ ] Integrated Object Detection and Tracking with Tracklet-Conditioned Detection | [paper](https://arxiv.org/pdf/1811.11167.pdf)
 - [ ] Fast Object Detection in Compressed Video | [paper](https://arxiv.org/pdf/1811.11057.pdf)
+- [ ] Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection | [paper](https://arxiv.org/pdf/1811.11318.pdf)
 
 ## paper | 11.19 ~ 11.23
 
