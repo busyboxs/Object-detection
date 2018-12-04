@@ -2,6 +2,14 @@
 
 本仓库主要收集关于目标检测的论文。论文每周会进行更新，最近一周的论文会展示在这里，之前的论文会根据具体的类别放在对应的文档中。
 
+## paper | 12.03 ~ 12.07
+
+- [ ] Anchor Box Optimization for Object Detection | [paper](https://arxiv.org/pdf/1812.00469.pdf)
+- [ ] Pedestrian Detection with Autoregressive Network Phases | [paper](https://arxiv.org/pdf/1812.00440.pdf)
+- [ ] Learning RoI Transformer for Detecting Oriented Objects in Aerial Images | [paper](https://arxiv.org/pdf/1812.00155.pdf)
+- [ ] NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection | [paper](https://arxiv.org/pdf/1812.00124.pdf)
+
+
 ## paper | 11.26 ~ 11.30
 
 - [ ] Deformable ConvNets v2: More Deformable, Better Results | [paper](https://arxiv.org/pdf/1811.11168.pdf)
