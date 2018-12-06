@@ -4,6 +4,7 @@
 
 ## paper | 12.03 ~ 12.07
 
+- [ ] Few-shot Object Detection via Feature Reweighting | [paper](https://arxiv.org/pdf/1812.01866.pdf)
 - [ ] Anchor Box Optimization for Object Detection | [paper](https://arxiv.org/pdf/1812.00469.pdf)
 - [ ] Pedestrian Detection with Autoregressive Network Phases | [paper](https://arxiv.org/pdf/1812.00440.pdf)
 - [ ] Learning RoI Transformer for Detecting Oriented Objects in Aerial Images | [paper](https://arxiv.org/pdf/1812.00155.pdf)
