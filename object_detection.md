@@ -66,6 +66,8 @@
 
 * **SSD** | SSD: Single Shot MultiBox Detector | [paper](https://arxiv.org/abs/1512.02325) |
 
+* **DSSD** | DSSD : Deconvolutional Single Shot Detector | [paper](https://arxiv.org/abs/1701.06659) |
+
 * **MSCNN** | A Unified Multi-scale Deep Convolutional Neural Network for Fast Object Detection | [paper](https://arxiv.org/abs/1607.07155) |
 
 * **SSH** | SSH: Single Stage Headless Face Detector | [paper](https://arxiv.org/abs/1708.03979) |
@@ -73,6 +75,18 @@
 * **S3FD** | S3FD: Single Shot Scale-invariant Face Detector | [paper](https://arxiv.org/abs/1708.05237) |
 
 * **Hypercolumns** | Hypercolumns for Object Segmentation and Fine-grained Localization | [paper](https://arxiv.org/abs/1411.5752) |
+
+* **SNIP** | An Analysis of Scale Invariance in Object Detection - SNIP | [paper](https://arxiv.org/abs/1711.08189) |
+
+* **FPN** | Feature Pyramid Networks for Object Detection | [paper](https://arxiv.org/abs/1612.03144) |
+
+* **YOLOv3** | YOLOv3: An Incremental Improvement | [paper](https://arxiv.org/abs/1804.02767) |
+
+* **RetinaNet** | Focal Loss for Dense Object Detection | [paper](https://arxiv.org/abs/1708.02002) |
+
+* **RefineDet** | Single-Shot Refinement Neural Network for Object Detection | [paper](https://arxiv.org/abs/1711.06897) |
+
+* **M2Det** | M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network | [paper](https://arxiv.org/abs/1811.04533) |
 
 * **TBA**
 
