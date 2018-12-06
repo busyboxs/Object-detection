@@ -34,3 +34,30 @@
 
 * **DES** | Single-Shot Object Detection with Enriched Semantics | [paper](https://arxiv.org/abs/1712.00433) |
 
+* **TBA**
+
+----
+
+## Two Stage Object Detection
+
+* **R-CNN** | Rich feature hierarchies for accurate object detection and semantic segmentation | [paper](https://arxiv.org/abs/1311.2524) |
+
+
+----
+
+## Multi-Scale Object Detection
+
+----
+
+## Object Detection with Context
+
+----
+
+## Face Detection
+
+----
+
+## Others
+
+----
+
