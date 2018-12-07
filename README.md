@@ -9,6 +9,7 @@
 - [ ] Pedestrian Detection with Autoregressive Network Phases | [paper](https://arxiv.org/pdf/1812.00440.pdf)
 - [ ] Learning RoI Transformer for Detecting Oriented Objects in Aerial Images | [paper](https://arxiv.org/pdf/1812.00155.pdf)
 - [ ] NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection | [paper](https://arxiv.org/pdf/1812.00124.pdf)
+- [ ] Tube-CNN: Modeling temporal evolution of appearance for object detection in video | [paper](https://arxiv.org/pdf/1812.02619.pdf)
 
 
 ## paper | 11.26 ~ 11.30
