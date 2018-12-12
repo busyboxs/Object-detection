@@ -8,7 +8,7 @@
 image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.07678.pdf)
 </center>
 
-1. **LeNet:** Gradient-Based Learning Applied to Document Recognition | [paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) |
+1. <span id=”LeNet”>  **LeNet:** Gradient-Based Learning Applied to Document Recognition | [paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) | [net](http://ethereon.github.io/netscope/#/gist/5137a29b2c32b3785817928f71711d6a) |
 
     <table>
         <tr>
@@ -16,7 +16,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-2. **AlexNet:** ImageNet Classification with Deep Convolutional Neural Networks | [paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | [slides](http://image-net.org/challenges/LSVRC/2012/supervision.pdf) |
+2. <span id=”AlexNet”> **AlexNet:** ImageNet Classification with Deep Convolutional Neural Networks | [paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | [slides](http://image-net.org/challenges/LSVRC/2012/supervision.pdf) |
 
     <table>
         <tr>
@@ -24,7 +24,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-3. **VGGNet:** Very Deep Convolutional Networks for Large-Scale Image Recognition | [paper](https://arxiv.org/abs/1409.1556) | [slides](http://www.image-net.org/challenges/LSVRC/2014/slides/VGG_ILSVRC_2014.pdf) |
+3. <span id=”VGGNet”> **VGGNet:** Very Deep Convolutional Networks for Large-Scale Image Recognition | [paper](https://arxiv.org/abs/1409.1556) | [slides](http://www.image-net.org/challenges/LSVRC/2014/slides/VGG_ILSVRC_2014.pdf) |
 
     <table align="center">
         <tr>
@@ -35,7 +35,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-4. **GoogLeNet:** Going Deeper With Convolutions | [paper](http://arxiv.org/abs/1409.4842) | [slides](http://www.image-net.org/challenges/LSVRC/2014/slides/GoogLeNet.pptx) |
+4. <span id=”GoogLeNet”> **GoogLeNet:** Going Deeper With Convolutions | [paper](http://arxiv.org/abs/1409.4842) | [slides](http://www.image-net.org/challenges/LSVRC/2014/slides/GoogLeNet.pptx) |
 
     <table>
         <tr>
@@ -46,7 +46,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-5. **ResNet:** Deep Residual Learning for Image Recognition | [paper](https://arxiv.org/abs/1512.03385) | [slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf) |
+5. <span id=”ResNet”> **ResNet:** Deep Residual Learning for Image Recognition | [paper](https://arxiv.org/abs/1512.03385) | [slides](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf) |
 
     <table>
         <tr>
@@ -55,7 +55,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-6. **InceptionV3:** Rethinking the Inception Architecture for Computer Vision | [paper](https://arxiv.org/abs/1512.00567) |
+6. <span id=”InceptionV3”> **InceptionV3:** Rethinking the Inception Architecture for Computer Vision | [paper](https://arxiv.org/abs/1512.00567) |
 
     <table>
         <tr>
@@ -68,7 +68,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
     |![](images/inceptionA.png)|![](images/inceptionB.png)|![](images/inceptionC.png)|
 
 
-7. **Xception:** Xception: Deep Learning with Depthwise Separable Convolutions | [paper](https://arxiv.org/abs/1610.02357) |
+7. <span id=”Xception”> **Xception:** Xception: Deep Learning with Depthwise Separable Convolutions | [paper](https://arxiv.org/abs/1610.02357) |
 
     <table>
         <tr>
@@ -76,7 +76,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-8. **Inception-v4, Inception-ResNet-v1, Inception-ResNet-V2:** Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | [paper](https://arxiv.org/pdf/1602.07261.pdf) |
+8. <span id=”Inception-v4”> **Inception-v4, Inception-ResNet-v1, Inception-ResNet-V2:** Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning | [paper](https://arxiv.org/pdf/1602.07261.pdf) |
 
     <table>
         <tr>
@@ -144,7 +144,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-9. **DenseNet:** Densely Connected Convolutional | [paper](https://arxiv.org/abs/1608.06993) | [slides](http://www.gaohuang.net/papers/DenseNet-CVPR-Slides.pdf) |
+9. <span id=”DenseNet”> **DenseNet:** Densely Connected Convolutional | [paper](https://arxiv.org/abs/1608.06993) | [slides](http://www.gaohuang.net/papers/DenseNet-CVPR-Slides.pdf) |
 
     <table>
         <tr>
@@ -158,7 +158,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-10. **NASNet:** Learning Transferable Architectures for Scalable Image Recognition |[paper](https://arxiv.org/abs/1707.07012) |
+10. <span id=”NASNet”> **NASNet:** Learning Transferable Architectures for Scalable Image Recognition |[paper](https://arxiv.org/abs/1707.07012) |
 
     <table>
         <tr>
@@ -166,7 +166,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-11. **MobileNet:** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | [paper](https://arxiv.org/abs/1704.04861) |
+11. <span id=”MobileNet”> **MobileNet:** MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | [paper](https://arxiv.org/abs/1704.04861) |
 
     <table>
         <tr>
@@ -175,7 +175,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-12. **MobileNetV2** MobileNetV2: Inverted Residuals and Linear Bottlenecks | [paper](https://arxiv.org/abs/1801.04381) |
+12. <span id=”MobileNetV2”> **MobileNetV2** MobileNetV2: Inverted Residuals and Linear Bottlenecks | [paper](https://arxiv.org/abs/1801.04381) |
 
     <table>
         <tr>
@@ -188,7 +188,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-13. **ShuffleNet:** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices | [paper](https://arxiv.org/abs/1707.01083) |
+13. <span id=”ShuffleNet”> **ShuffleNet:** ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices | [paper](https://arxiv.org/abs/1707.01083) |
 
     <table>
         <tr>
@@ -199,7 +199,7 @@ image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.076
         </tr>
     </table>
 
-14. **ShuffleNetV2** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [paper](https://arxiv.org/abs/1807.11164) |
+14. <span id=”ShuffleNetV2”> **ShuffleNetV2** ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [paper](https://arxiv.org/abs/1807.11164) |
 
     <table>
         <tr>
