@@ -186,7 +186,7 @@ Learning Transferable Architectures for Scalable Image Recognition |[paper](http
     </tr>
 </table>
 
-1. **MobileNet:** 
+##### 11. **MobileNet:** 
    
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | [paper](https://arxiv.org/abs/1704.04861) |
 
@@ -197,7 +197,7 @@ MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applicatio
     </tr>
 </table>
 
-##### 11. **MobileNetV2**
+##### 12. **MobileNetV2**
    
 MobileNetV2: Inverted Residuals and Linear Bottlenecks | [paper](https://arxiv.org/abs/1801.04381) |
 
@@ -212,7 +212,7 @@ MobileNetV2: Inverted Residuals and Linear Bottlenecks | [paper](https://arxiv.o
     </tr>
 </table>
 
-##### 12. **ShuffleNet:**
+##### 13. **ShuffleNet:**
    
 ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices | [paper](https://arxiv.org/abs/1707.01083) |
 
@@ -225,7 +225,7 @@ ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devic
     </tr>
 </table>
 
-##### 13. **ShuffleNetV2**
+##### 14. **ShuffleNetV2**
     
 ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [paper](https://arxiv.org/abs/1807.11164) |
 
