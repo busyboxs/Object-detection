@@ -30,7 +30,7 @@
 
 * **Feature-Fused SSD** | Feature-Fused SSD: Fast Detection for Small Objects | [paper](https://arxiv.org/abs/1709.05054) |
 
-* **R-SSD** | Enhancement of SSD by concatenating feature maps for object detection | [paper](https://arxiv.org/abs/1705.09587) |
+* **Rainbow-SSD** | Enhancement of SSD by concatenating feature maps for object detection | [paper](https://arxiv.org/abs/1705.09587) | [code](https://github.com/soo89/Rainbow-SSD) |
 
 * **DES** | Single-Shot Object Detection with Enriched Semantics | [paper](https://arxiv.org/abs/1712.00433) |
 
