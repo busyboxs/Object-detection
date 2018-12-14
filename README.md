@@ -2,6 +2,12 @@
 
 本仓库主要收集关于目标检测的论文。论文每周会进行更新，最近一周的论文会展示在这里，之前的论文会根据具体的类别放在对应的文档中。
 
+## paper | 12.10 ~ 12.14
+
+- [ ] Strong-Weak Distribution Alignment for Adaptive Object Detection | [paper](https://arxiv.org/pdf/1812.04798.pdf) 
+- [ ] IPOD: Intensive Point-based Object Detector for Point Cloud | [paper](https://arxiv.org/pdf/1812.05276.pdf)
+- [ ] FA-RPN: Floating Region Proposals for Face Detection | [paper](https://arxiv.org/pdf/1812.05586.pdf)
+
 ## paper | 12.03 ~ 12.07
 
 - [ ] Few-shot Object Detection via Feature Reweighting | [paper](https://arxiv.org/pdf/1812.01866.pdf)
