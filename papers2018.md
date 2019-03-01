@@ -1,11 +1,4 @@
-
-
 # object detection
-
-## recent update papers
-
-----
-
 
 ----
 
