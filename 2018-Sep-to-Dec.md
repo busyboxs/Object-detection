@@ -6,10 +6,6 @@
 
 ----
 
-- [ ] Cross-Modal Attentional Context Learning for RGB-D Object Detection | [paper](https://arxiv.org/pdf/1810.12829.pdf)
-- [ ] Hybrid Knowledge Routed Modules for Large-scale Object Detection | [paper](https://arxiv.org/pdf/1810.12681.pdf) | [code](https://github.com/chanyn/HKRM)
-- [ ] Training Domain Specific Models for Energy-Efficient Object Detection | [paper](https://arxiv.org/pdf/1811.02689.pdf)
-- [ ] RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement | [paper](https://arxiv.org/pdf/1811.03818.pdf)
 
 ----
 
@@ -77,7 +73,64 @@
 - [ ] GhostVLAD for set-based face recognition | [paper](https://arxiv.org/pdf/1810.09951.pdf)
 - [ ] Face Recognition from Sequential Sparse 3D data via Deep Registration | [paper](https://arxiv.org/pdf/1810.09658.pdf)
 - [ ] Fast and accurate object detection in high resolution 4K and 8K video using GPUs | [paper](https://arxiv.org/pdf/1810.10551.pdf)
-
+- [ ] Dual Refinement Network for Single-Shot Object Detection. | [paper](https://arxiv.org/pdf/1807.08638.pdf)
+- [ ] Occlusion-aware R-CNN:Detecting Pedestrians in a Crowd. | [paper](https://arxiv.org/pdf/1807.08407.pdf)
+- [ ] Visual Mesh: Real-time Object Detection Using Constant Sample Density | [paper](https://arxiv.org/pdf/1807.08405.pdf)
+- [ ] A Statistical Method for Object Counting. | [paper](https://arxiv.org/ftp/arxiv/papers/1807/1807.08335.pdf)
+- [ ] Competition vs. Concatenation in Skip Connections of Fully Convolutional Networks. | [paper](https://arxiv.org/pdf/1807.07803.pdf)
+- [ ] Physical Adversarial Examples for Object Detectors. | [paper](https://arxiv.org/pdf/1807.07769.pdf)
+- [ ] Modeling Visual Context is Key to Augmenting Object Detection Datasets. | [paper](https://arxiv.org/pdf/1807.07428.pdf)
+- [ ] Deep Adaptive Proposal Network for Object Detection in Optical Remote Sensing Images. | [paper](https://arxiv.org/pdf/1807.07327.pdf)
+- [ ] DroNet: Efficient Convolutional Neural Network Detector for Real-Time UAV Applications. | [paper](https://arxiv.org/pdf/1807.06789.pdf)
+- [ ] Multicolumn Networks for Face Recognition. | [paper](https://arxiv.org/pdf/1807.09192.pdf) 
+- [ ] Toward Scale-Invariance and Position-Sensitive Region Proposal Networks. | [paper](https://arxiv.org/pdf/1807.09528.pdf)
+- [ ] Acquisition of Localization Confidence for Accurate Object Detection. | [paper](https://arxiv.org/pdf/1807.11590.pdf)
+- [ ] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design. | [paper](https://arxiv.org/pdf/1807.11164.pdf)
+- [ ] Embedded Implementation of a Deep Learning Smile Detector. | [paper](https://arxiv.org/pdf/1807.10570.pdf)
+- [ ] Attention-based Pyramid Aggregation Network for Visual Place Recognition. | [paper](https://arxiv.org/pdf/1808.00288.pdf)
+- [ ] Geometry-Based Multiple Camera Head Detection in Dense Crowds. | [paper](https://arxiv.org/pdf/1808.00856.pdf)
+- [ ] Efficient Fusion of Sparse and Complementary Convolutions for Object Recognition and Detection. | [paper](https://arxiv.org/pdf/1808.02167.pdf)
+- [ ] SAM-RCNN: Scale-Aware Multi-Resolution Multi-Channel Pedestrian Detection. | [paper](https://arxiv.org/pdf/1808.02246.pdf)
+- [ ] Motorcycle detection and classification in urban Scenarios using a model based on Faster R-CNN. | [paper](https://arxiv.org/ftp/arxiv/papers/1808/1808.02299.pdf)
+- [ ] OBJECT DETECTION IN SATELLITE IMAGERY USING 2-STEP CONVOLUTIONAL NEURAL NETWORKS. | [paper](https://arxiv.org/pdf/1808.02996.pdf)
+- [x] A Survey of Modern Object Detection Literature using Deep Learning. | [paper](https://arxiv.org/pdf/1808.07256.pdf)
+- [x] Ensemble-based Adaptive Single-shot Multi-box Detector | [paper](https://arxiv.org/pdf/1808.05727.pdf)
+- [x] Total Recall: Understanding Traffic Signs using Deep Hierarchical Convolutional Neural Networks | [paper](https://arxiv.org/pdf/1808.10524.pdf) | [code](https://github.com/Sourajit2110/DilatedSkipTotalRecall)
+- [x] MACNet: Multi-scale Atrous Convolution Networks for Food Places Classification in Egocentric Photo-streams. | [paper](https://arxiv.org/pdf/1808.09829.pdf)
+- [x] Label and Sample: Efficient Training of Vehicle Object Detector from Sparsely Labeled Data | [paper](https://arxiv.org/pdf/1808.08603.pdf)
+- [ ] Cross-Modal Attentional Context Learning for RGB-D Object Detection | [paper](https://arxiv.org/pdf/1810.12829.pdf)
+- [ ] Hybrid Knowledge Routed Modules for Large-scale Object Detection | [paper](https://arxiv.org/pdf/1810.12681.pdf) | [code](https://github.com/chanyn/HKRM)
+- [ ] Training Domain Specific Models for Energy-Efficient Object Detection | [paper](https://arxiv.org/pdf/1811.02689.pdf)
+- [ ] RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement | [paper](https://arxiv.org/pdf/1811.03818.pdf)
+- [ ] Strong-Weak Distribution Alignment for Adaptive Object Detection | [paper](https://arxiv.org/pdf/1812.04798.pdf) 
+- [ ] IPOD: Intensive Point-based Object Detector for Point Cloud | [paper](https://arxiv.org/pdf/1812.05276.pdf)
+- [ ] FA-RPN: Floating Region Proposals for Face Detection | [paper](https://arxiv.org/pdf/1812.05586.pdf)
+- [ ] Few-shot Object Detection via Feature Reweighting | [paper](https://arxiv.org/pdf/1812.01866.pdf)
+- [ ] Anchor Box Optimization for Object Detection | [paper](https://arxiv.org/pdf/1812.00469.pdf)
+- [ ] Pedestrian Detection with Autoregressive Network Phases | [paper](https://arxiv.org/pdf/1812.00440.pdf)
+- [ ] Learning RoI Transformer for Detecting Oriented Objects in Aerial Images | [paper](https://arxiv.org/pdf/1812.00155.pdf)
+- [ ] NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection | [paper](https://arxiv.org/pdf/1812.00124.pdf)
+- [ ] Tube-CNN: Modeling temporal evolution of appearance for object detection in video | [paper](https://arxiv.org/pdf/1812.02619.pdf)
+- [ ] Deformable ConvNets v2: More Deformable, Better Results | [paper](https://arxiv.org/pdf/1811.11168.pdf)
+- [ ] Integrated Object Detection and Tracking with Tracklet-Conditioned Detection | [paper](https://arxiv.org/pdf/1811.11167.pdf)
+- [ ] Fast Object Detection in Compressed Video | [paper](https://arxiv.org/pdf/1811.11057.pdf)
+- [ ] Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection | [paper](https://arxiv.org/pdf/1811.11318.pdf)
+- [ ] Multi-layer Pruning Framework for Compressing Single Shot MultiBox Detector | [paper](https://arxiv.org/pdf/1811.08342.pdf)
+- [ ] Orthographic Feature Transform for Monocular 3D Object Detection | [paper](https://arxiv.org/pdf/1811.08188.pdf)
+- [ ] Explain to Fix: A Framework to Interpret and Correct DNN Object Detector Predictions | [paper](https://arxiv.org/pdf/1811.08011.pdf)
+- [ ] Fast Efficient Object Detection Using Selective Attention | [paper](https://arxiv.org/pdf/1811.07502.pdf)
+- [ ] FotonNet: A HW-Efficient Object Detection System Using 3D-Depth Segmentation and 2D-DNN Classifier | [paper](https://arxiv.org/pdf/1811.07493.pdf)
+- [ ] R2CNN++: Multi-Dimensional Attention Based Rotation Invariant Detector with Robust Anchor Strategy | [paper](https://arxiv.org/pdf/1811.07126.pdf)
+- [ ] DeRPN: Taking a further step toward more general object detection | [paper](https://arxiv.org/pdf/1811.06700.pdf)
+- [ ] RoarNet: A Robust 3D Object Detection based on RegiOn Approximation Refinement | [paper](https://arxiv.org/abs/1811.03818) |
+- [ ] M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network - **AAAI 2019** | [paper](https://arxiv.org/abs/1811.04533) |
+- [ ] A Framework of Transfer Learning in Object Detection for Embedded Systems | [paper](https://arxiv.org/abs/1811.04863) |
+- [ ] Gradient Harmonized Single-stage Detector - **AAAI 2019** | [paper](https://arxiv.org/abs/1811.05181) |
+- [ ] BAN: Focusing on Boundary Context for Object Detection | [paper](https://arxiv.org/abs/1811.05243) |
+- [ ] Detect or Track: Towards Cost-Effective Video Object Detection/Tracking - **AAAI 2019** | [paper](https://arxiv.org/abs/1811.05340) |
+- [ ] YOLO-LITE: A Real-Time Object Detection Algorithm Optimized for Non-GPU Computers | [paper](https://arxiv.org/abs/1811.05588) |
+- [ ] Development of Real-time ADAS Object Detector for Deployment on CPU | [paper](https://arxiv.org/abs/1811.05894) |
+- [ ] ShuffleDet: Real-Time Vehicle Detection Network in On-board Embedded UAV Imagery - **ECCV 2018** | [paper](https://arxiv.org/abs/1811.06318) |
 
 # others
 
@@ -89,6 +142,9 @@
 - [ ] Albumentations: fast and flexible image augmentations | [paper](https://arxiv.org/pdf/1809.06839.pdf)
 - [ ] Correlation Propagation Networks for Scene Text Detection | [paper](https://arxiv.org/pdf/1810.00304.pdf)
 - [ ] A look at the topology of convolutional neural networks | [paper](https://arxiv.org/pdf/1810.03234.pdf)
+- [ ] Deep Learning in Agriculture: A Survey. | [paper](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf)
+- [ ] Weather Classification: A new multi-class dataset, data augmentation approach and comprehensive evaluations of Convolutional Neural Networks. | [paper](https://arxiv.org/pdf/1808.00588.pdf)
+- [ ] How do Convolutional Neural Networks Learn Design? | [paper](https://arxiv.org/pdf/1808.08402.pdf)
 
 ----
 
