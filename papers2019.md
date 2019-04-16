@@ -2,12 +2,43 @@
 
 - [ ]  | [paper]()
 
+## Apr
+
+- [ ] EvalNorm: Estimating Batch Normalization Statistics for Evaluation | [paper](https://arxiv.org/abs/1904.06031)
+- [ ] An Analysis of Pre-Training on Object Detection | [paper](https://arxiv.org/abs/1904.05871)
+- [ ] C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection | [paper](https://arxiv.org/abs/1904.05647)
+- [ ] Learning to Generate Synthetic Data via Compositing | [paper](https://arxiv.org/abs/1904.05475)
+- [ ] BAOD: Budget-Aware Object Detection | [paper](https://arxiv.org/abs/1904.05443)
+- [ ] Soft Conditional Computation | [paper](https://arxiv.org/abs/1904.04971)
+- [x] Prime Sample Attention in Object Detection | [paper](https://arxiv.org/abs/1904.04821)
+- [ ] Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving | [paper](https://arxiv.org/abs/1904.04620)
+- [ ] Towards Universal Object Detection by Domain Attention | [paper](https://arxiv.org/abs/1904.04402) | [project](http://www.svcl.ucsd.edu/projects/universal-detection/)
+- [ ] FoveaBox: Beyond Anchor-based Object Detector | [paper](https://arxiv.org/abs/1904.03797)
+- [ ] What Object Should I Use? - Task Driven Object Detection | [paper](https://arxiv.org/abs/1904.03000)
+- [ ] High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection | [paper](https://arxiv.org/abs/1904.02948)
+- [ ] Libra R-CNN: Towards Balanced Learning for Object Detection | [paper](https://arxiv.org/abs/1904.02701)
+- [ ] A Robust Learning Approach to Domain Adaptive Object Detection | [paper](https://arxiv.org/abs/1904.02361)
+- [ ] Comparison Network for One-Shot Conditional Object Detection | [paper](https://arxiv.org/abs/1904.02317)
+- [ ] Patchwork: A Patch-wise Attention Network for Efficient Object Detection and Segmentation in Video Streams | [paper](https://arxiv.org/abs/1904.01784)
+- [ ] Activity Driven Weakly Supervised Object Detection | [paper](https://arxiv.org/abs/1904.01665)
+- [ ] MVX-Net: Multimodal VoxelNet for 3D Object Detection | [paper](https://arxiv.org/abs/1904.01649)
+- [ ] FCOS: Fully Convolutional One-Stage Object Detection | [paper](https://arxiv.org/abs/1904.01355)
+- [ ] Res2Net: A New Multi-scale Backbone Architecture | [paper](https://arxiv.org/abs/1904.01169)
+- [ ] Efficient Incremental Learning for Mobile Object Detection | [paper](https://arxiv.org/abs/1904.00781)
+- [ ] SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection | [paper](https://arxiv.org/abs/1904.00048)
+
 ## March |
 
+- [ ] Improving Object Detection with Inverted Attention | [paper](https://arxiv.org/abs/1903.12255)
+- [ ] Road User Detection in Videos | [paper](https://arxiv.org/abs/1903.12049)
+- [ ] Feature Intertwiner for Object Detection | [paper](https://arxiv.org/abs/1903.11851)
+- [ ] ThunderNet: Towards Real-time Generic Object Detection | [paper](https://arxiv.org/abs/1903.11752)
+- [ ] Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving | [paper](https://arxiv.org/abs/1903.11444)
+- [ ] DetNAS: Neural Architecture Search on Object Detection | [paper](https://arxiv.org/abs/1903.10979)
+- [ ] GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving | [paper](https://arxiv.org/abs/1903.10955)
 - [ ] Predictive Inequity in Object Detection | [paper](https://arxiv.org/abs/1902.11097)
 - [ ] DPOD: Dense 6D Pose Object Detector in RGB images | [paper](https://arxiv.org/pdf/1902.11020)
-- [ ] 
-Salient object detection on hyperspectral images using features learned from unsupervised segmentation task | [paper](https://arxiv.org/abs/1902.10993)
+- [ ] Salient object detection on hyperspectral images using features learned from unsupervised segmentation task | [paper](https://arxiv.org/abs/1902.10993)
 - [ ] Extended Gaze Following: Detecting Objects in Videos Beyond the Camera Field of View | [paper](https://arxiv.org/abs/1902.10953)
 - [ ] Bi-Directional Cascade Network for Perceptual Edge Detection | [paper](https://arxiv.org/abs/1902.10903)
 - [ ] An Annotation Saved is an Annotation Earned: Using Fully Synthetic Training for Object Instance Detection | [paper](https://arxiv.org/abs/1902.09967)
