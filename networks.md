@@ -4,7 +4,8 @@
 
 <center>
 
-![](images/backbone.png)
+
+![](https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/backbone.png)
 image from [https://arxiv.org/pdf/1605.07678.pdf](https://arxiv.org/pdf/1605.07678.pdf)
 </center>
 
@@ -14,7 +15,7 @@ Gradient-Based Learning Applied to Document Recognition | [paper](http://yann.le
 
 <table>
     <tr>
-        <td align="center"><img src="images/lenet.png"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/lenet.png"/></td>
     </tr>
 </table>
 
@@ -24,7 +25,7 @@ ImageNet Classification with Deep Convolutional Neural Networks | [paper](https:
 
 <table>
     <tr>
-        <td align="center"><img src="images/alexnet.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/alexnet.png"/></td>   
     </tr>
 </table>
 
@@ -34,10 +35,13 @@ ImageNet Classification with Deep Convolutional Neural Networks | [paper](https:
 
 <table align="center">
     <tr>
-        <td align="center"><img src="images/vggnet.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/vggnet.png"/></td>   
     </tr>
     <tr>
-        <td align="center"><b>VGG16</b><br><img src="images/vgg16.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/vggnet1.png"/></td>   
+    </tr>
+    <tr>
+        <td align="center"><b>VGG16</b><br><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/vgg16.png"/></td>   
     </tr>
 </table>
 
@@ -47,10 +51,10 @@ ImageNet Classification with Deep Convolutional Neural Networks | [paper](https:
 
 <table>
     <tr>
-        <td align="center"><img src="images/googlenet1.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/googlenet1.png"/></td>   
     </tr>
     <tr>
-        <td align="center"><img src="images/googlenet2.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/googlenet2.png"/></td>   
     </tr>
 </table>
 
@@ -60,8 +64,14 @@ ImageNet Classification with Deep Convolutional Neural Networks | [paper](https:
 
 <table>
     <tr>
-        <td align="center"><img src="images/resnet1.png"/></td>
-        <td align="center"><img src="images/resnet2.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/resnet1.png"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/resnet2.png"/></td>   
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/resnet.png"/></td>   
     </tr>
 </table>
 
@@ -71,13 +81,13 @@ Rethinking the Inception Architecture for Computer Vision | [paper](https://arxi
 
 <table>
     <tr>
-        <td align="center"><img src="images/inceptionv3_1.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv3_1.png"/></td>   
     </tr>
 </table>
 
 |Inception Module A|Inception Module B|Inception Module C|
 |:----:|:----:|:----:|
-|![](images/inceptionA.png)|![](images/inceptionB.png)|![](images/inceptionC.png)|
+|![](https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionA.png)|![](https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionB.png)|![](https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionC.png)|
 
 
 ##### 7. **Xception:**
@@ -86,7 +96,7 @@ Xception: Deep Learning with Depthwise Separable Convolutions | [paper](https://
 
 <table>
     <tr>
-        <td align="center"><img src="images/xception.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/xception.png"/></td>   
     </tr>
 </table>
 
@@ -102,17 +112,17 @@ Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learnin
         <td align="center"><b> Schema</b></td>  
     </tr>
     <tr>
-        <td rowspan="3"><img src="images/inceptionv4.png"/></td> 
-        <td rowspan="3"><img src="images/inceptionv4_1.png"/></td>   
-        <td align="center"><b>Inception-A</b> <br> <img src="images/inceptionv4_2.png"/></td>
-        <td align="center"><b>35×35 to 17×17</b><br><img src="images/inceptionv4_5.png"/></td>
+        <td rowspan="3"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4.png"/></td> 
+        <td rowspan="3"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_1.png"/></td>   
+        <td align="center"><b>Inception-A</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_2.png"/></td>
+        <td align="center"><b>35×35 to 17×17</b><br><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_5.png"/></td>
     </tr>
     <tr>
-        <td align="center"><b>Inception-B</b> <br> <img src="images/inceptionv4_3.png"/></td> 
-        <td align="center"><b>17×17 to 8×8</b><br><img src="images/inceptionv4_6.png"/></td> 
+        <td align="center"><b>Inception-B</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_3.png"/></td> 
+        <td align="center"><b>17×17 to 8×8</b><br><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_6.png"/></td> 
     </tr>
     <tr>
-        <td align="center"><b>Inception-C</b> <br> <img src="images/inceptionv4_4.png"/></td>  
+        <td align="center"><b>Inception-C</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_4.png"/></td>  
     </tr>
 </table>
 
@@ -124,17 +134,17 @@ Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learnin
         <td align="center"><b> Schema</b></td>  
     </tr>
     <tr>
-        <td rowspan="3"><img src="images/inceptionresnet.png"/></td> 
-        <td rowspan="3"><img src="images/inceptionresnet4.png"/></td>   
-        <td align="center"><b>Inception-ResNet-A</b> <br> <img src="images/inceptionresnet1.png"/></td>
-        <td align="center"><b>35×35 to 17×17</b><br><img src="images/inceptionv4_5.png"/></td>
+        <td rowspan="3"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet.png"/></td> 
+        <td rowspan="3"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet4.png"/></td>   
+        <td align="center"><b>Inception-ResNet-A</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet1.png"/></td>
+        <td align="center"><b>35×35 to 17×17</b><br><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_5.png"/></td>
     </tr>
     <tr>
-        <td align="center"><b>Inception-ResNet-B</b> <br> <img src="images/inceptionresnet2.png"/></td> 
-        <td align="center"><b>17×17 to 8×8</b><br><img src="images/inceptionresnet5.png"/></td> 
+        <td align="center"><b>Inception-ResNet-B</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet2.png"/></td> 
+        <td align="center"><b>17×17 to 8×8</b><br><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet5.png"/></td> 
     </tr>
     <tr>
-        <td align="center"><b>Inception-ResNet-C</b> <br> <img src="images/inceptionresnet3.png"/></td>  
+        <td align="center"><b>Inception-ResNet-C</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet3.png"/></td>  
     </tr>
 </table>
 
@@ -146,17 +156,17 @@ Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learnin
         <td align="center"><b> Schema</b></td>  
     </tr>
     <tr>
-        <td rowspan="3"><img src="images/inceptionresnet.png"/></td> 
-        <td rowspan="3"><img src="images/inceptionv4_1.png"/></td>   
-        <td align="center"><b>Inception-ResNet-A</b> <br> <img src="images/inceptionresnet6.png"/></td>
-        <td align="center"><b>35×35 to 17×17</b><br><img src="images/inceptionv4_5.png"/></td>
+        <td rowspan="3"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet.png"/></td> 
+        <td rowspan="3"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_1.png"/></td>   
+        <td align="center"><b>Inception-ResNet-A</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet6.png"/></td>
+        <td align="center"><b>35×35 to 17×17</b><br><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionv4_5.png"/></td>
     </tr>
     <tr>
-        <td align="center"><b>Inception-ResNet-B</b> <br> <img src="images/inceptionresnet7.png"/></td> 
-        <td align="center"><b>17×17 to 8×8</b><br><img src="images/inceptionresnet9.png"/></td> 
+        <td align="center"><b>Inception-ResNet-B</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet7.png"/></td> 
+        <td align="center"><b>17×17 to 8×8</b><br><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet9.png"/></td> 
     </tr>
     <tr>
-        <td align="center"><b>Inception-ResNet-C</b> <br> <img src="images/inceptionresnet8.png"/></td>  
+        <td align="center"><b>Inception-ResNet-C</b> <br> <img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/inceptionresnet8.png"/></td>  
     </tr>
 </table>
 
@@ -166,13 +176,13 @@ Densely Connected Convolutional | [paper](https://arxiv.org/abs/1608.06993) | [s
 
 <table>
     <tr>
-        <td align="center"><img src="images/densenet.png"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/densenet.png"/></td>
     </tr>
     <tr>
-        <td align="center"><img src="images/densenet1.png"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/densenet1.png"/></td>
     </tr>
     <tr>
-        <td align="center"><img src="images/densenet2.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/densenet2.png"/></td>   
     </tr>
 </table>
 
@@ -182,7 +192,7 @@ Learning Transferable Architectures for Scalable Image Recognition |[paper](http
 
 <table>
     <tr>
-        <td align="center"><img src="images/nasnet.png"/></td>   
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/nasnet.png"/></td>   
     </tr>
 </table>
 
@@ -192,8 +202,8 @@ MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applicatio
 
 <table>
     <tr>
-        <td align="center"><img src="images/mobilenet1.png"/></td>  
-        <td align="center"><img src="images/mobilenet.png"/></td>  
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mobilenet1.png"/></td>  
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mobilenet.png"/></td>  
     </tr>
 </table>
 
@@ -203,12 +213,12 @@ MobileNetV2: Inverted Residuals and Linear Bottlenecks | [paper](https://arxiv.o
 
 <table>
     <tr>
-        <td align="center"><img src="images/mobilenetv2_1.png"/></td>
-        <td align="center"><img src="images/mobilenetv2_2.png"/></td>  
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mobilenetv2_1.png"/></td>
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mobilenetv2_2.png"/></td>  
     </tr>
     <tr>
-        <td align="center"><img src="images/mobilenetv2_3.png"/></td> 
-        <td align="center"><img src="images/mobilenetv2_4.png"/></td> 
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mobilenetv2_3.png"/></td> 
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mobilenetv2_4.png"/></td> 
     </tr>
 </table>
 
@@ -218,10 +228,10 @@ ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devic
 
 <table>
     <tr>
-        <td align="center"><img src="images/shufflenet.png"/></td>  
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/shufflenet.png"/></td>  
     </tr>
     <tr>
-        <td align="center"><img src="images/shufflenet1.png"/></td>  
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/shufflenet1.png"/></td>  
     </tr>
 </table>
 
@@ -231,10 +241,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
 <table>
     <tr>
-        <td align="center"><img src="images/shufflenetv2_1.png"/></td>  
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/shufflenetv2_1.png"/></td>  
     </tr>
     <tr>
-        <td align="center"><img src="images/shufflenetv2_2.png"/></td>  
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/shufflenetv2_2.png"/></td>  
     </tr>
 </table>
 
@@ -246,7 +256,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/rcnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rcnn.png"/></td>
         </tr>
     </table>
 
@@ -254,7 +264,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/fastrcnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fastrcnn.png"/></td>
         </tr>
     </table>
 
@@ -262,8 +272,8 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/fasterrcnn.png"/></td>
-            <td align="center"><img src="images/fasterrcnn1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fasterrcnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fasterrcnn1.png"/></td>
         </tr>
     </table>
 
@@ -271,10 +281,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/rfcn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfcn.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/rfcn1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfcn1.png"/></td>
         </tr>
     </table>
 
@@ -282,7 +292,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/rfcn3000.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfcn3000.png"/></td>
         </tr>
     </table>
 
@@ -290,7 +300,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/couplenet.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/couplenet.png"/></td>  
         </tr>
     </table>
 
@@ -298,12 +308,12 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/fpn.png"/></td>
-            <td align="center"><img src="images/fpn3.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fpn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fpn3.png"/></td> 
         </tr>
         <tr>
-            <td align="center"><img src="images/fpn1.png"/></td>
-            <td align="center"><img src="images/fpn2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fpn1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fpn2.png"/></td>
         </tr>
     </table>
 
@@ -311,8 +321,8 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/mskrcnn.png"/></td> 
-            <td align="center"><img src="images/mskrcnn1.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mskrcnn.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mskrcnn1.png"/></td> 
         </tr>
     </table>
 
@@ -320,7 +330,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/lhrfcn.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/lhrfcn.png"/></td> 
         </tr>
     </table>
 
@@ -328,7 +338,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/ohem.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ohem.png"/></td>
         </tr>
     </table>
 
@@ -336,7 +346,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/sohem.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/sohem.png"/></td>
         </tr>
     </table>
 
@@ -345,10 +355,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/pvanet.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/pvanet.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/pvanet1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/pvanet1.png"/></td>
         </tr>
     </table>
 
@@ -356,7 +366,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/ircnn.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ircnn.png"/></td> 
         </tr>
     </table>
 
@@ -364,11 +374,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/selectiverfcp.png"/></td> 
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/selectiverfcp.png"/></td> 
         </tr>
         <tr>
-            <td align="center"><img src="images/selectiverfcp1.png"/></td>
-            <td align="center"><img src="images/selectiverfcp2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/selectiverfcp1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/selectiverfcp2.png"/></td>
         </tr>
     </table>
 
@@ -376,7 +386,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/cascadercnn.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/cascadercnn.png"/></td>  
         </tr>
     </table>
 
@@ -384,13 +394,13 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/craft.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/craft.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/craft1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/craft1.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/craft2.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/craft2.png"/></td>  
         </tr>
     </table>
 
@@ -402,7 +412,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/yolo.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/yolo.png"/></td>
         </tr>
     </table>
 
@@ -410,7 +420,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/ssd.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ssd.png"/></td>
         </tr>
     </table>
 
@@ -418,13 +428,13 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/dssd.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/dssd.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/dssd1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/dssd1.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/dssd2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/dssd2.png"/></td>
         </tr>
     </table>
 
@@ -432,7 +442,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/refinedet.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/refinedet.png"/></td>
         </tr>
     </table>
 
@@ -440,10 +450,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/rrc.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rrc.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/rrc1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rrc1.png"/></td>  
         </tr>
     </table>
 
@@ -451,7 +461,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/cfenet1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/cfenet1.png"/></td>  
         </tr>
     </table>
 
@@ -459,17 +469,17 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/rfb.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfb.png"/></td>
         </tr>
         <tr>
-            <td colspan="2" align="center"><img src="images/rfb2.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfb2.png"/></td>
         </tr>
         <tr>
-            <td colspan="2" align="center"><img src="images/rfb4.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfb4.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/rfb1.png"/></td>
-            <td align="center"><img src="images/rfb3.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfb1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfb3.png"/></td>
         </tr>
     </table>
 
@@ -477,11 +487,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/retinanet.png"/></td>
-            <td align="center"><img src="images/retinanet2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/retinanet.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/retinanet2.png"/></td>
         </tr>
         <tr>
-            <td colspan="2" align="center"><img src="images/retinanet1.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/retinanet1.png"/></td>
         </tr>
     </table>
 
@@ -489,10 +499,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/des.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/des.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/des1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/des1.png"/></td>
         </tr>
     </table>
 
@@ -500,7 +510,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/s3fd.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/s3fd.png"/></td>
         </tr>
     </table>
 
@@ -508,11 +518,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/fssd1.png"/></td> 
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fssd1.png"/></td> 
         </tr>
         <tr>
-            <td align="center"><img src="images/fssd.png"/></td>
-            <td align="center"><img src="images/fssd2.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fssd.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fssd2.png"/></td> 
         </tr>
     </table>
 
@@ -520,11 +530,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/fusedssd.png"/></td> 
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fusedssd.png"/></td> 
         </tr>
         <tr>
-            <td align="center"><img src="images/fusedssd1.png"/></td>
-            <td align="center"><img src="images/fusedssd2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fusedssd1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fusedssd2.png"/></td>
         </tr>
     </table>
 
@@ -532,10 +542,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/extendssd.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/extendssd.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/extendssd1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/extendssd1.png"/></td>
         </tr>
     </table>
 
@@ -543,10 +553,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/essd.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/essd.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/essd1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/essd1.png"/></td>  
         </tr>
     </table>
 
@@ -554,11 +564,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/weavenet.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/weavenet.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/weavenet1.png"/></td>
-            <td align="center"><img src="images/weavenet2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/weavenet1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/weavenet2.png"/></td>
         </tr>
     </table>
 
@@ -570,7 +580,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/multipath.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/multipath.png"/></td>  
         </tr>
     </table>
 
@@ -578,7 +588,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/snip.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/snip.png"/></td>  
         </tr>
     </table>
 
@@ -586,10 +596,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/accnn1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/accnn1.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/accnn2.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/accnn2.png"/></td>  
         </tr>
     </table>
 
@@ -597,7 +607,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/arccnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/arccnn.png"/></td>
         </tr>
     </table>
 
@@ -605,13 +615,13 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/mrcnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mrcnn.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/mrcnn1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mrcnn1.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/mrcnn2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mrcnn2.png"/></td>
         </tr>
     </table>
 
@@ -619,7 +629,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/fhedn.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fhedn.png"/></td> 
         </tr>
     </table>
 
@@ -627,16 +637,16 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/gbdnet.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/gbdnet.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/gbdnet1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/gbdnet1.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/gbdnet2.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/gbdnet2.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/gbdnet3.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/gbdnet3.png"/></td>  
         </tr>
     </table>
 
@@ -644,13 +654,13 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/cascaderpn.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/cascaderpn.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/cascaderpn1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/cascaderpn1.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/cascaderpn2.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/cascaderpn2.png"/></td>  
         </tr>
     </table>
 
@@ -658,17 +668,17 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/ccnn.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ccnn.png"/></td>
         </tr>
         <tr>
-            <td colspan="2" align="center"><img src="images/ccnn1.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ccnn1.png"/></td>
         </tr>
         <tr>
-            <td colspan="2" align="center"><img src="images/ccnn2.png"/></td> 
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ccnn2.png"/></td> 
         </tr>
         <tr>
-            <td align="center"><img src="images/ccnn3.png"/></td>
-            <td align="center"><img src="images/ccnn4.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ccnn3.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ccnn4.png"/></td>
         </tr>
     </table>
 
@@ -680,13 +690,13 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/mscnn1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mscnn1.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/mscnn2.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mscnn2.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/mscnn3.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mscnn3.png"/></td>  
         </tr>
     </table>
 
@@ -694,11 +704,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/ron.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ron.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/ron1.png"/></td>
-            <td align="center"><img src="images/ron2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ron1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ron2.png"/></td>
         </tr>
     </table>
 
@@ -706,10 +716,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/ionet.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ionet.png"/></td> 
         </tr>
         <tr>
-            <td align="center"><img src="images/ionet1.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ionet1.png"/></td> 
         </tr>
     </table>
 
@@ -717,7 +727,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/hipernet.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/hipernet.png"/></td> 
         </tr>
     </table>
 
@@ -725,11 +735,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/tdm.png"/></td>  
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/tdm.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/tdm1.png"/></td>
-            <td align="center"><img src="images/tdm2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/tdm1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/tdm2.png"/></td>
         </tr>
     </table>
 
@@ -737,7 +747,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/zoom.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/zoom.png"/></td>
         </tr>
     </table>
 
@@ -745,11 +755,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/sdpcrc1.png"/></td>  
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/sdpcrc1.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/sdpcrc2.png"/></td>
-            <td align="center"><img src="images/sdpcrc.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/sdpcrc2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/sdpcrc.png"/></td> 
         </tr>
     </table>
 
@@ -761,10 +771,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/amulet.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/amulet.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/amulet1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/amulet1.png"/></td>  
         </tr>
     </table>
 
@@ -776,10 +786,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/safd.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/safd.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/safd1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/safd1.png"/></td>
         </tr>
     </table>
 
@@ -787,11 +797,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/ssh.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ssh.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/ssh1.png"/></td>
-            <td align="center"><img src="images/ssh2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ssh1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/ssh2.png"/></td>
         </tr>
     </table>
 
@@ -799,7 +809,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/mhface.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mhface.png"/></td> 
         </tr>
     </table>
 
@@ -807,7 +817,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/tinyface.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/tinyface.png"/></td> 
         </tr>
     </table>
 
@@ -815,10 +825,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/fanface.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fanface.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/fanface1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/fanface1.png"/></td>
         </tr>
     </table>
 
@@ -826,7 +836,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/rfcnface.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rfcnface.png"/></td>  
         </tr>
     </table>
 
@@ -834,7 +844,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/mlgc.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mlgc.png"/></td>  
         </tr>
     </table>
 
@@ -842,7 +852,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/cmsrcnn.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/cmsrcnn.png"/></td>  
         </tr>
     </table>
 
@@ -854,7 +864,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/rldp.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rldp.png"/></td>
         </tr>
     </table>
 
@@ -866,7 +876,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/tcnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/tcnn.png"/></td>
         </tr>
     </table>
 
@@ -874,7 +884,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/tpn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/tpn.png"/></td>
         </tr>
     </table>
 
@@ -882,7 +892,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/videoobject.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/videoobject.png"/></td>
         </tr>
     </table>
 
@@ -894,15 +904,15 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/squeezedet.png"/></td>
-            <td align="center"><img src="images/squeezedet1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/squeezedet.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/squeezedet1.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/squeezedet2.png"/></td>
-            <td align="center"><img src="images/squeezedet3.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/squeezedet2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/squeezedet3.png"/></td>
         </tr>
         <tr>
-            <td colspan="2" align="center"><img src="images/squeezedet4.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/squeezedet4.png"/></td>
         </tr>
     </table>
 
@@ -910,7 +920,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/mfrcnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mfrcnn.png"/></td>
         </tr>
     </table>
 
@@ -918,11 +928,11 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/relationcnn.png"/></td>
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/relationcnn.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/relationcnn1.png"/></td>
-            <td align="center"><img src="images/relationcnn2.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/relationcnn1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/relationcnn2.png"/></td>
         </tr>
     </table>
 
@@ -930,7 +940,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/rsa.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/rsa.png"/></td>
         </tr>
     </table>
 
@@ -938,7 +948,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/frcn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/frcn.png"/></td>
         </tr>
     </table>
 
@@ -947,10 +957,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/opcnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/opcnn.png"/></td>
         </tr>
         <tr>
-            <td align="center"><img src="images/opcnn1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/opcnn1.png"/></td>
         </tr>
     </table>
 
@@ -958,7 +968,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/mccnn.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mccnn.png"/></td>
         </tr>
     </table>
 
@@ -966,8 +976,8 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/mimik.png"/></td>
-            <td align="center"><img src="images/mimik1.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mimik.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/mimik1.png"/></td> 
         </tr>
     </table>
 
@@ -975,10 +985,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/lstd.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/lstd.png"/></td> 
         </tr>
         <tr>
-            <td align="center"><img src="images/lstd1.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/lstd1.png"/></td> 
         </tr>
     </table>
 
@@ -986,14 +996,14 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/grpdsod.png"/></td> 
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/grpdsod.png"/></td> 
         </tr>
         <tr>
-            <td colspan="2" align="center"><img src="images/grpdsod1.png"/></td> 
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/grpdsod1.png"/></td> 
         </tr>
         <tr>
-            <td align="center"><img src="images/grpdsod2.png"/></td> 
-            <td align="center"><img src="images/grpdsod3.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/grpdsod2.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/grpdsod3.png"/></td>
         </tr>
     </table>
 
@@ -1001,7 +1011,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/dcn.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/dcn.png"/></td>  
         </tr>
     </table>
 
@@ -1009,7 +1019,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/dzn.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/dzn.png"/></td>  
         </tr>
     </table>
 
@@ -1017,13 +1027,13 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td  align="center"><img src="images/dpfcn.png"/></td>  
+            <td  align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/dpfcn.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/dpfcn1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/dpfcn1.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/dpfcn2.png"/></td> 
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/dpfcn2.png"/></td> 
         </tr>
     </table>
 
@@ -1031,15 +1041,15 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td colspan="2" align="center"><img src="images/deformablecnn.png"/></td>  
+            <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/deformablecnn.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/deformablecnn1.png"/></td>
-            <td align="center"><img src="images/deformablecnn2.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/deformablecnn1.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/deformablecnn2.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/deformablecnn3.png"/></td>
-            <td align="center"><img src="images/deformablecnn4.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/deformablecnn3.png"/></td>
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/deformablecnn4.png"/></td>  
         </tr>
     </table>
 
@@ -1047,7 +1057,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/regionlets.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/regionlets.png"/></td>  
         </tr>
     </table>
 
@@ -1055,7 +1065,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/deepmanta.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/deepmanta.png"/></td>  
         </tr>
     </table>
 
@@ -1063,13 +1073,13 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/detnet1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/detnet1.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/detnet2.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/detnet2.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/detnet3.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/detnet3.png"/></td>  
         </tr>
     </table>
 
@@ -1077,10 +1087,10 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design | [pap
 
     <table>
         <tr>
-            <td align="center"><img src="images/afrcnn.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/afrcnn.png"/></td>  
         </tr>
         <tr>
-            <td align="center"><img src="images/afrcnn1.png"/></td>  
+            <td align="center"><img src="https://cdn.jsdelivr.net/gh/busyboxs/CDN@latest/obj_det/images/afrcnn1.png"/></td>  
         </tr>
     </table>
 
